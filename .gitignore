@@ -18,7 +18,6 @@ data/
 datasets/
 
 # Ignore model weights
-models/
 checkpoints/
 
 # Ignore Jupyter notebook checkpoints
