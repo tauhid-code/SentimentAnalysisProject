@@ -1,6 +1,9 @@
 # Ignore API keys
+*.csv
+*.zip
 kaggle.json
-*.json
+sentiment140/
+
 
 # Ignore virtual environment
 venv/
@@ -20,3 +23,5 @@ checkpoints/
 
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+
